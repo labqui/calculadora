@@ -73411,7 +73411,7 @@ s($,"aGL","Dx",()=>A.ahn("stoichiometry","Reage",A.b([],A.P("o<@(m)>"))))
 s($,"aGz","RR",()=>A.ahn("equilibrium","Equil\xedbrio",A.b([],A.P("o<@(m)>"))))
 s($,"aGK","arm",()=>A.b([$.oW(),$.Dx(),$.RR()],A.P("o<lO>")))
 s($,"aGy","afU",()=>{var q=t.YL
-return A.b([A.agl("vazio","Escolha...",A.b([],q),A.agk(0,"","")),A.agl("acido_acetico","\xc1cido-Base: CH\u2083COOH (\xc1cido Ac\xe9tico)",A.b([A.o0(1,!0,"CH\u2083COOH","\xc1cido Ac\xe9tico",B.dE,B.bM),A.o0(1,!1,"H\u2082O","\xc1gua",B.dE,B.bM),A.o0(1,!0,"H\u2083O\u207a","Hidrox\xf4nio",B.dF,B.bM),A.o0(1,!0,"CH\u2083COO\u207b","Acetato",B.dF,B.bM)],q),A.agk(0.0000175,"\u1d43","1,75 \xd7 10\u207b\u2075")),A.agl("amonia","\xc1cido-Base: NH\u2083 (Am\xf4nia)",A.b([A.o0(1,!0,"NH\u2083","Am\xf4nia",B.dE,B.bM),A.o0(1,!1,"H\u2082O","\xc1gua",B.dE,B.bM),A.o0(1,!0,"NH\u2084\u207a","Am\xf4nio",B.dF,B.bM),A.o0(1,!0,"OH\u207b","Hidroxila",B.dF,B.bM)],q),A.agk(56e-11,"\u1d47","5,6 \xd7 10\u207b\u2071\u2070"))],A.P("o<fP>"))})
+return A.b([A.agl("vazio","Escolha...",A.b([],q),A.agk(0,"","")),A.agl("acido_acetico","\xc1cido-Base: CH3COOH (\xc1cido Ac\xe9tico)",A.b([A.o0(1,!0,"CH3COOH","\xc1cido Ac\xe9tico",B.dE,B.bM),A.o0(1,!1,"H2O","\xc1gua",B.dE,B.bM),A.o0(1,!0,"H3O+","Hidrox\xf4nio",B.dF,B.bM),A.o0(1,!0,"CH3COO-","Acetato",B.dF,B.bM)],q),A.agk(0.0000175,"a","1,75e-5")),A.agl("amonia","\xc1cido-Base: NH3 (Am\xf4nia)",A.b([A.o0(1,!0,"NH3","Am\xf4nia",B.dE,B.bM),A.o0(1,!1,"H2O","\xc1gua",B.dE,B.bM),A.o0(1,!0,"NH4+","Am\xf4nio",B.dF,B.bM),A.o0(1,!0,"OH-","Hidroxila",B.dF,B.bM)],q),A.agk(56e-11,"b","5,6e-10"))],A.P("o<fP>"))})
 s($,"aFI","aqN",()=>A.amw(1,1,500))
 s($,"aGu","arh",()=>new A.a9i())
 s($,"aFT","aqY",()=>A.f9(B.bD,B.j,t.d))
